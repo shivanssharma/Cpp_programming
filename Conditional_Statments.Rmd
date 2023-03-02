@@ -1,0 +1,45 @@
+#if else statments
+if( condition 1 )
+{   
+    # statement 1
+}
+else if ( condition 2 )
+{
+    # Statement 2
+}
+else 
+{
+    #statement 3
+}
+
+#Switch case statemtns
+switch(condition or value 
+        '1' : case1,
+        '2' : case2,
+        ... : ...
+        ... : ...
+        ... : ...,
+        print("Invalid Input"))
+        
+#Loops
+##Repeat Loop
+repeat{
+  commands
+  if(condition)
+  {
+    break
+  }
+} #its an exit control loop
+
+##While Loop
+while(condition)
+{
+  #Statements
+} 
+its an entry control loop
+
+##For Loop
+for(value in vector)
+{
+  #Statements
+}

@@ -1,0 +1,30 @@
+#Arithmetic Operators
+Addition : a+b
+Subtraction : a-b
+Multiplication : a*b
+Division : a/b
+Modulus : a%%b
+exponent : a^b
+Floor Division : a%/%b
+
+#Relational Operators
+Equal To : a==b
+Not Equal To : a!=b
+Greater Than : a>b
+Less Than : a<b
+Greater Than Equal To : a>=b
+Less Than Equal To : a<=b
+
+#Assignment Operator
+##There are two types of Assignment operators : Left and Right
+
+Left assignment : x<-15
+Right assignemt : 25->x
+
+hence, 15 < x < 25
+
+#Logical Operator
+AND : a&b
+OR : a|b
+NOT : !a
+
